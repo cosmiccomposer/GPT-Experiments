@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../AgentGPT"
+		},
+		{
+			"path": "../Auto-GPT"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../ChatGPT-main"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
